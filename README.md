@@ -19,7 +19,7 @@ Chrome üçün brauzer genişlənməsi. Zendo.az saytındakı tapşırıqlar lö
 
 1. Repozitorini yükləyin və ya klonlayın:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/emil-hasanzada/zendo-groups.git
    ```
 2. Chrome-da `chrome://extensions` səhifəsini açın.
 3. Sağ yuxarıda **Developer mode** (Tərtibatçı rejimi) seçimini aktiv edin.
