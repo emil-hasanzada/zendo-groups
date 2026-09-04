@@ -13,7 +13,9 @@ Chrome üçün brauzer genişlənməsi. Zendo.az saytındakı tapşırıqlar lö
 
 ## Demo video
 
-<video src="demo.webm" controls width="100%"></video>
+Videoya baxmaq üçün şəklin üzərinə klikləyin:
+
+[![Demo video](demo-preview.png)](demo.webm)
 
 ## Chrome-da quraşdırma
 
