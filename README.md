@@ -11,11 +11,9 @@ Chrome üçün brauzer genişlənməsi. Zendo.az saytındakı tapşırıqlar lö
 - Qruplar brauzerdə yadda saxlanılır və səhifə yenilənəndən sonra da qalır.
 - Sürükleyib-buraxma (drag-and-drop) saytın öz funksiyası kimi işləməyə davam edir.
 
-## Demo video
+## Demo
 
-Videoya baxmaq üçün şəklin üzərinə klikləyin:
-
-[![Demo video](demo-preview.png)](demo.webm)
+![Demo](demo.gif)
 
 ## Chrome-da quraşdırma
 
