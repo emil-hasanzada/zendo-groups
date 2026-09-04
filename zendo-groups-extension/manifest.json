@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Zendo Groups",
+  "version": "0.2.1",
+  "description": "Группировка задач в аккордеоны на доске Zendo",
+  "permissions": ["storage"],
+  "host_permissions": ["https://zendo.az/*", "https://*.zendo.az/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://zendo.az/*", "https://*.zendo.az/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Zendo Groups"
+  }
+}
